@@ -4,7 +4,7 @@ description: Systematically analyze any causal claim to distinguish genuine caus
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3551
+  version: 1.0.3552
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - causation-examination
